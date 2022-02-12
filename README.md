@@ -2,6 +2,7 @@
 #### This is a very interesting project on Data Structures and Algorithms
 Advances in digital content transmission have increased in the past few years. Security and privacy issues of the transmitted data have become an important concern in multimedia technology
 So i have desgined an Encrytption/Decryption algorithm to to protect the videos, so that the algorithm may digitally hide your videos to avoid unauthorised interception and viewing. To safeguard the material, videos are encrypted with an encoding method. Without the proper authorization, no one can watch the encrypted videos.
+### Watch this for complete tutorial https://www.youtube.com/watch?v=BsnWubbDVqs
 
 # How the algorithm is made.
 This is the most important part of the whole project.
