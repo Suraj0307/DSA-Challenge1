@@ -1,4 +1,4 @@
-# DSA-Challenge1
+## DSA-Challenge 1
 #### This is a very interesting project on Data Structures and Algorithms
 Advances in digital content transmission have increased in the past few years. Security and privacy issues of the transmitted data have become an important concern in multimedia technology
 So i have desgined an Encrytption/Decryption algorithm to to protect the videos, so that the algorithm may digitally hide your videos to avoid unauthorised interception and viewing. To safeguard the material, videos are encrypted with an encoding method. Without the proper authorization, no one can watch the encrypted videos.
@@ -17,7 +17,7 @@ The process of converting plaintext to ciphertext is called enciphering or encry
 
 # Follow the procedure to use.
 ### Step 1.
-#### Install python greter than 3.6 and less than 3.9 
+#### Install python greater than 3.6 and less than 3.9 
 
 ### Step 2.
 #### Run main.py file in the terminal.
