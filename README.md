@@ -9,7 +9,7 @@ Logic behind algorithm is really very simple and straightforward.
 I have first generated 5 strings and they are totally random.
 I will be using strings ascii values to do xor operation on the file.
 After that i did xor operation on the file bytes with each 5 strings ascii values.
-For encryption/decryption most used operator is xor(^) thats why i used this and it was very easy to understand.
+For encryption/decryption most used operator is xor(^) thats why i used this and it is very easy to understand.
 
 # Encryption/Decryption:
 The process of converting plaintext to ciphertext is called enciphering or encryption; restoring plaintext from ciphertext is deciphering or decryption. Both the encryption and decryption algorithms take a key (K) and plaintext/ciphertext as input. In the case of images, plaintext is a set of pixel values arranged in an orderly manner. Encrypting images/videos constitutes reordering these pixel values so that they convey no visual information about the original image. An image/video can also be encrypted in the compressed domain. In this case, the DCT coefficients are encrypted in such a way that the content is made illegible for the unauthorized. Only an authorized user can get back the original content using the decryption algorithm
